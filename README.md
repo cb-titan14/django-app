@@ -1,2 +1,2 @@
 # django-app
-A simple django app
+A simple django application
